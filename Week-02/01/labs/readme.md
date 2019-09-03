@@ -1,7 +1,7 @@
 <doctype html>
 <html lang="en">
 <head>
-<title>Sam Moise</title>
+<title> Sam Moise </title>
 </head>
 <body>
 <p> I am a senior at Syracuse University, originally from Orange County, California. At Syracuse, I am a finance major with minors in both economics and the iSchool. </p> 
