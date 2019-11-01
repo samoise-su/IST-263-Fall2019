@@ -1,0 +1,83 @@
+body {
+    background-color: #c9af98;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1{
+    font-family: Catamaran;
+    color: #3a4660;
+    text-align: center;
+    font-size: 50px;
+}
+
+a:link{
+    color: #ed8a63;
+    font-size: 20px;
+}
+
+a:hover{
+    color: #845007;
+    font-size: 20px;
+}
+
+a:visited{
+    color: p#3a4660;
+    font-size: 20px;
+}
+
+h2{
+    font-family: Catamaran;
+    color: #3a4660;
+    text-align: center;
+    font-size: 26.5px;
+    }
+
+h3{
+    font-family: Catamaran;
+    text-align: center;
+    font-size: 26px;
+    color: #3a4660;
+    background-color: #FFFDD0;
+}
+
+img{
+   width: 1000px;
+   height: 400px;
+   }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  p{
+      font-family: Catamaran;
+      font-size: 20px;
+      color: #3a4660;
+      background-color: #FFFDD0;
+  }
+
+  div.gallery {
+    margin: 0px;
+    border: 4px solid #ccc;
+    float: left;
+    width: 450px;
+    height: 575px;
+    padding: 10px;
+  }
+  
+  div.gallery:hover {
+    border: 10px solid #3a4660;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 20px;
+    text-align: center;
+  }
